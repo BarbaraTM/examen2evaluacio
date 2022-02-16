@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(255, 176, 145);
+}
+
+header {
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+div.bitcoin {
+    color: blue;
+    margin-left: 1400px;
+    font-weight: bold;
+}
+
+div.etherum {
+    color: blue;
+    background-color: white;
+    font-weight: bold;
+}
+
+.mover {
+    margin-left: 1200px;
+}
+
+div.litecoin {
+    color: blue;
+    margin-left: 400px;
+    font-weight: bold;
+}
+
+footer {
+    background-color: yellow;
+    text-align: center;
+}
+
+span.nombre {
+    color: red;
+    font-weight: bold;
+}
+
+.moneda {
+    color: red;
+}
